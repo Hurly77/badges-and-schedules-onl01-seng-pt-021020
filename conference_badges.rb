@@ -23,7 +23,7 @@ return new_array
 end
 
 def printer(array)
-assign_rooms.each(array) do |room|
+assign_rooms(array).each do |room|
   puts room
 
 
