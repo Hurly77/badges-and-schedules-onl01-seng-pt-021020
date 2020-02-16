@@ -26,6 +26,8 @@ def printer(array)
 assign_rooms.each do |room|
   puts room
 
+end
+
   batch_badge_creator.each do |id|
   puts id
 end
