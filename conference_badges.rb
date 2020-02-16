@@ -22,7 +22,7 @@ end
 return new_array
 end
 
-def printer
+def printer()
   puts batch_badge_creator
   puts assign_rooms
 end
