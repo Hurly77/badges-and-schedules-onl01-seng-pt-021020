@@ -12,4 +12,9 @@ end
 return arr
 end
 
-def assign_rooms(speakers)
+def assign_rooms(array)
+new_array = []
+
+counter = 1
+
+array.each do |room|
