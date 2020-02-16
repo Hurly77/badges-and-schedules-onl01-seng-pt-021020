@@ -9,3 +9,4 @@ def batch_badge_creator(array)
 arr.each do |name| <<
   "Hello, my name is #{name}."
 end
+return arr 
