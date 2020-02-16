@@ -15,4 +15,6 @@ end
 def assign_rooms(array)
 new_array = []
 counter = 1
-array.each do |room| "hello, #{badge}! You'll be assigned to room #{room}"
+array.each do |room| "hello, #{badge}! You'll be assigned to room #{room}."
+
+end
