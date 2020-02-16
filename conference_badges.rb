@@ -31,3 +31,4 @@ end
   batch_badge_creator.each(array) do |id|
   puts id
 end
+end
