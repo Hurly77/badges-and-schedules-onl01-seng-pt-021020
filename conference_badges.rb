@@ -10,3 +10,4 @@ arr.each do |name| arr.push
   "Hello, my name is #{name}."
 end
 return arr
+end
