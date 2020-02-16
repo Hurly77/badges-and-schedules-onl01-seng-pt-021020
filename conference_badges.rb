@@ -23,5 +23,5 @@ return new_array
 end
 
 def printer(array)
-  batch_badge_creator.each do ||
+  batch_badge_creator.each do |room|
 end
