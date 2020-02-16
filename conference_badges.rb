@@ -11,3 +11,5 @@ array.each do |badge|
 end
 return arr
 end
+
+def assign_rooms(speakers)
